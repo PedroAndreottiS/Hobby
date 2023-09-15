@@ -1,0 +1,16 @@
+body {
+    background-image: url(imagens/oooo.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1 {
+    font-size: 400%;
+    font-variant: small-caps;
+    font-size-adjust: inherit;
+}
+
+strong {
+    font-size: 1000%;
+}
