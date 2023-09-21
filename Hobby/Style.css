@@ -9,8 +9,14 @@ h1 {
     font-size: 400%;
     font-variant: small-caps;
     font-size-adjust: inherit;
+    color: rgb(0, 129, 209);
+    font-style: oblique;
 }
 
 strong {
     font-size: 1000%;
+}
+
+body{
+    color: red;
 }
